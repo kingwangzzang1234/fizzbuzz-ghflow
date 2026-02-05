@@ -1,4 +1,4 @@
-# fizzbuzz-ghflow
+# Fizzbuzz Github Flow
 
 fizzbuzz with github flow
 
